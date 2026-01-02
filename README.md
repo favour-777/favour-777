@@ -1,6 +1,6 @@
 <!-- About Me -->
 <h2>About Me</h2>
-<p>💻 Aspiring Dev | Detail-Oriented</p>
+<p>💻  Aspiring Dev  |  Detail-Oriented</p>
 
 <div style="margin-top: 2.8em;"></div>
 
@@ -20,25 +20,10 @@
 &nbsp;✺&nbsp;&nbsp;Scripting & Automation<br>
 &nbsp;✺&nbsp;&nbsp;Web Development<br>
 &nbsp;✺&nbsp;&nbsp;UI/UX & Product Design<br>
-&nbsp;✺&nbsp;&nbsp;Algorithmic Thinking</p>
+&nbsp;✺&nbsp;&nbsp;Algorithmic Systems</p>
 
 <div style="margin-top: 2.8em;"></div>
 
-<h2 style="margin-bottom: 1.5em;">Get in Touch 💬</h2>
-<p align="center"><nobr>
-<a href="https://www.linkedin.com/in/favour-nde-89a52639a?trk=contact-info">
-  <sub><img src="Icons/LinkedIn.PNG" width="50" height="50"></sub>
-</a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:favour7asongwe@icloud.com">
-  <sub><img src="Icons/Mail.PNG" width="50" height="50"></sub>
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://wa.me/237680567034">
-  <sub><img src="Icons/WhatsApp.PNG" width="50" height="50"></sub>
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://dev.to/favour7">
-  <sub><img src="Icons/dev.to.PNG" width="50" height="50"></sub>
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.snapchat.com/add/qntxlc">
-  <sub><img src="Icons/Snapchat.PNG" width="50" height="50"></sub>
-</a>
-</nobr></p>
+<h2>Get in Touch 💬</h2>
+
+<p align="center"><nobr><a href="https://www.linkedin.com/in/favour-nde-89a52639a?trk=contact-info" style="text-decoration:none; outline:none; border:none;"><sub><img src="Icons/LinkedIn.PNG" width="50" height="50"></sub></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:favour7asongwe@icloud.com" style="text-decoration:none; outline:none; border:none;"><sub><img src="Icons/Mail.PNG" width="50" height="50"></sub></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wa.me/237680567034" style="text-decoration:none; outline:none; border:none;"><sub><img src="Icons/WhatsApp.PNG" width="50" height="50"></sub></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dev.to/favour7" style="text-decoration:none; outline:none; border:none;"><sub><img src="Icons/dev.to.PNG" width="50" height="50"></sub></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.snapchat.com/add/qntxlc" style="text-decoration:none; outline:none; border:none;"><sub><img src="Icons/Snapchat.PNG" width="50" height="50"></sub></a></nobr></p>
